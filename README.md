@@ -1,3 +1,29 @@
+# Teerath
+
+Web development based delivery web application aimed at helping college canteen.
+
+# Demo
+
+https://github.com/Nikhil-1607/Teerath/assets/77186725/5ad27e49-9d60-451b-986d-40c4f3435549
+
+# Features - 
+
+1)Login/Signup
+2)Profile
+3)Menu card
+4)Menu Update
+5)Cart
+6)Email authentication
+
+# Tech Stack
+
+1)React.js
+2)Bootstrap-5
+3)Node.js
+4)Express.js
+5)MongoDB
+6)Redux Toolkit
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
